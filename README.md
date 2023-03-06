@@ -1,4 +1,4 @@
-# **SHIPS** :ship:
+# **Ships** :ship:
 * [**App datos de navegación**](https://dar-337152118-appshiny-r.shinyapps.io/ships/)
 
 ## Scripts :books:
