@@ -6,4 +6,4 @@
 - [**Module.R**](): módulo sencillo que importa el archivo app.R con la lectura y definición de una función.
 - [**ships.rds**](): datos sobre navegación que contiene la aplicación.
 
-![Screenshot](https://github.com/dalerodr/ships/image/blob/main/Ships_app.JPG)
+![Screenshot](https://github.com/dalerodr/ships/tree/master/image)
