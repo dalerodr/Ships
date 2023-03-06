@@ -2,8 +2,8 @@
 * [**App datos de navegación**](https://dar-337152118-appshiny-r.shinyapps.io/ships/)
 
 ## Scripts :books:
-- [**App**](https://github.com/dalerodr/ships/blob/master/app.R): código principal de la aplicación con selectores y diversas funcionalidades.
-- [**Module.R**](https://github.com/dalerodr/ships/blob/master/Module.R): módulo sencillo que importa el archivo app.R con la lectura y definición de una función.
-- [**ships.rds**](https://github.com/dalerodr/ships/blob/master/ships.rds): datos sobre navegación que contiene la aplicación.
+- [**App**](https://github.com/dalerodr/ships/blob/master/app.R): **código principal** de la aplicación con selectores y diversas funcionalidades.
+- [**Module.R**](https://github.com/dalerodr/ships/blob/master/Module.R): módulo sencillo que importa el archivo *app.R* con la lectura y definición de una función.
+- [**ships.rds**](https://github.com/dalerodr/ships/blob/master/ships.rds): **datos** sobre navegación que contiene la aplicación.
 
 ![Screenshot](https://github.com/dalerodr/ships/blob/master/image/Ships_app.JPG)
