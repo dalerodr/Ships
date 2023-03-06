@@ -6,4 +6,4 @@
 - [**Module.R**](https://github.com/dalerodr/ships/blob/master/Module.R): módulo sencillo que importa el archivo *app.R* con la lectura y definición de una función.
 - [**ships.rds**](https://github.com/dalerodr/ships/blob/master/ships.rds): **datos sobre navegación** que contiene la aplicación.
 
-<a target="_blank" href="https://dar-337152118-appshiny-r.shinyapps.io/ships/"><img src="https://github.com/dalerodr/ships/blob/master/image/Ships_app.JPG" alt="Screenshot"></a>
+<a href="https://dar-337152118-appshiny-r.shinyapps.io/ships/"><img src="https://github.com/dalerodr/ships/blob/master/image/Ships_app.JPG" alt="Screenshot"></a>
